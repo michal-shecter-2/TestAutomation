@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-20T01:20:59 IST" name="Suite" finished-at="2022-02-20T01:21:05 IST" duration-ms="5979">
+  <suite started-at="2022-02-20T04:12:21 IST" name="Suite" finished-at="2022-02-20T04:12:27 IST" duration-ms="5525">
     <groups>
     </groups>
-    <test started-at="2022-02-20T01:20:59 IST" name="Test" finished-at="2022-02-20T01:21:05 IST" duration-ms="5979">
-      <class name="testCase.testVerifyTable">
-        <test-method is-config="true" signature="openChrome()[pri:0, instance:testCase.testVerifyTable@7dd00705]" started-at="2022-02-20T01:20:59 IST" name="openChrome" finished-at="2022-02-20T01:21:04 IST" duration-ms="4897" status="PASS">
+    <test started-at="2022-02-20T04:12:21 IST" name="Test" finished-at="2022-02-20T04:12:27 IST" duration-ms="5525">
+      <class name="testCase.VerifyTableTest">
+        <test-method is-config="true" signature="openChrome()[pri:0, instance:testCase.VerifyTableTest@76075d65]" started-at="2022-02-20T04:12:21 IST" name="openChrome" finished-at="2022-02-20T04:12:26 IST" duration-ms="4455" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openChrome -->
-        <test-method signature="testVerifyTableCellText()[pri:1, instance:testCase.testVerifyTable@7dd00705]" started-at="2022-02-20T01:21:04 IST" name="testVerifyTableCellText" finished-at="2022-02-20T01:21:04 IST" duration-ms="237" status="PASS">
+        <test-method signature="testVerifyTableCellText()[pri:1, instance:testCase.VerifyTableTest@76075d65]" started-at="2022-02-20T04:12:26 IST" name="testVerifyTableCellText" finished-at="2022-02-20T04:12:26 IST" duration-ms="276" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testVerifyTableCellText -->
-        <test-method is-config="true" signature="closeSession()[pri:0, instance:testCase.testVerifyTable@7dd00705]" started-at="2022-02-20T01:21:04 IST" name="closeSession" finished-at="2022-02-20T01:21:05 IST" duration-ms="655" status="PASS">
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:testCase.VerifyTableTest@76075d65]" started-at="2022-02-20T04:12:26 IST" name="closeSession" finished-at="2022-02-20T04:12:27 IST" duration-ms="629" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeSession -->
-      </class> <!-- testCase.testVerifyTable -->
+      </class> <!-- testCase.VerifyTableTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
