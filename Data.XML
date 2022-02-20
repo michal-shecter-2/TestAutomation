@@ -3,6 +3,6 @@
     <Url>https://www.w3schools.com/html/html_tables.asp</Url>
     <searchColumn>1</searchColumn>
     <searchText>Ernst Handel</searchText>
-    <returnColumnText>7</returnColumnText>
+    <returnColumnText>3</returnColumnText>
     <expectedText>Austria</expectedText>
 </Environment>
